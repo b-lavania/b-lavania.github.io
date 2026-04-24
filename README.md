@@ -5,8 +5,20 @@
 ---
 
 # CASE STUDY PORTFOLIO
-
 This portfolio provides structured evidence of product ownership, system design, and measurable outcomes across AI-driven marketplace systems.
+---
+# SUMMARY
+
+## Differentiation
+
+* Combines AI systems with real-world marketplace operations
+* Focus on applied AI, not theoretical modeling
+* Strong unit economics and operational outcomes
+
+## Core Capability
+
+Designing and deploying AI systems that directly impact revenue, cost, and scalability in marketplace environments.
+
 
 ---
 
@@ -345,18 +357,5 @@ Expand into multi-product SaaS business unit.
 
 ---
 
-# SUMMARY
-
-## Differentiation
-
-* Combines AI systems with real-world marketplace operations
-* Focus on applied AI, not theoretical modeling
-* Strong unit economics and operational outcomes
-
-## Core Capability
-
-Designing and deploying AI systems that directly impact revenue, cost, and scalability in marketplace environments.
-
----
 
 # END
