@@ -1,6 +1,5 @@
 # b-lavania.github.io
-# Bharat "Bob" Lavania
-## AI Systems & Marketplace Product Lead
+## AI Systems & Marketplace Product Lead: Logistics & Finance
 
 ---
 
@@ -15,10 +14,11 @@
 ## Core Capability
 
 Designing and deploying AI systems that directly impact revenue, cost, and scalability in marketplace environments.
+
 ---
+
 # CASE STUDY PORTFOLIO
 This portfolio provides structured evidence of product ownership, system design, and measurable outcomes across AI-driven marketplace systems.
-
 
 ---
 
