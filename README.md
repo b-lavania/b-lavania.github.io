@@ -4,9 +4,6 @@
 
 ---
 
-# CASE STUDY PORTFOLIO
-This portfolio provides structured evidence of product ownership, system design, and measurable outcomes across AI-driven marketplace systems.
----
 # SUMMARY
 
 ## Differentiation
@@ -18,6 +15,9 @@ This portfolio provides structured evidence of product ownership, system design,
 ## Core Capability
 
 Designing and deploying AI systems that directly impact revenue, cost, and scalability in marketplace environments.
+---
+# CASE STUDY PORTFOLIO
+This portfolio provides structured evidence of product ownership, system design, and measurable outcomes across AI-driven marketplace systems.
 
 
 ---
